@@ -1,68 +1,70 @@
-<h2 align="left">¡Hola, soy Javier! 🚀 Explorando el futuro con código y creatividad. La IA no reemplaza la imaginación, la potencia. 🔥 #CodeTheFuture"</h2>
-
-###
+<div align="center">
+  <img src="./assets/profile-banner-ai.png" alt="Banner futurista de Javier: inteligencia artificial, datos y experiencias 3D" width="100%" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javier321jg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javier321jg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <h1>Hola, soy Javier 👋</h1>
+  <h3>Ingeniero de Sistemas Empresariales · Full Stack · IA aplicada · Experiencias 3D</h3>
+  <p><em>«La IA no reemplaza la imaginación; la potencia.»</em></p>
 
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media.tenor.com/VDZ7tUIWb6kAAAAM/bleach-mugetsu.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@javiergutierrezramos4121" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/nelson-javier-gutierrez-ramos-508563211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/ridergr23/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="mailto:gutierrez321ser@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="gutierrez321ser@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.youtube.com/@javiergutierrezramos4121">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.linkedin.com/in/nelson-javier-gutierrez-ramos-508563211/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/ridergr23/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-###
+## Sobre mí
 
-<br clear="both">
+- 🤖 Desarrollo soluciones de **inteligencia artificial y visión por computadora** para problemas reales.
+- 🌐 Construyo productos **full stack**, desde la interfaz hasta las APIs y los datos.
+- 🧊 Exploro experiencias web inmersivas con **Three.js, WebGL y animaciones 3D**.
+- ⚙️ Me interesa convertir procesos complejos en sistemas simples, útiles y automatizados.
 
-<img src="https://raw.githubusercontent.com/javier321jg/javier321jg/output/snake.svg" alt="Snake animation" />
+## Tecnologías
 
-###
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=fff" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=fff" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=fff" alt="Flask" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=fff" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git" />
+</div>
+
+## Proyectos destacados
+
+| Proyecto | Qué construí | Tecnologías |
+| :--- | :--- | :--- |
+| [🏗️ Constructora GR](https://github.com/javier321jg/constructora_gr) | Plataforma empresarial con experiencia 3D, API REST y panel de administración. | React · TypeScript · Three.js · Flask |
+| [🍓 Detección de enfermedades](https://github.com/javier321jg/cnn-fresa-diase) | Aplicación de visión por computadora para detectar enfermedades en cultivos de fresa. | YOLOv8 · Python · Flask |
+| [🏓 Ping Pong 3D](https://github.com/javier321jg/JUEGO_PING-PONG) | Juego web 3D con física, partículas, iluminación dinámica e IA de dificultad adaptable. | Three.js · WebGL · JavaScript |
+| [💼 Portafolio web](https://github.com/javier321jg/portafolio_web) | Portafolio administrable con diseño inmersivo, galería de proyectos y efectos 3D. | Django · Tailwind CSS · GSAP · Three.js |
+
+## Mi actividad
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javier321jg/javier321jg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javier321jg/javier321jg/output/github-contribution-grid-snake.svg" />
+    <img alt="Animación de contribuciones de Javier" src="https://raw.githubusercontent.com/javier321jg/javier321jg/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <sub>Siempre aprendiendo, construyendo y convirtiendo ideas en productos.</sub>
+</div>
