@@ -55,6 +55,14 @@
 | [🏓 Ping Pong 3D](https://github.com/javier321jg/JUEGO_PING-PONG) | Juego web 3D con física, partículas, iluminación dinámica e IA de dificultad adaptable. | Three.js · WebGL · JavaScript |
 | [💼 Portafolio web](https://github.com/javier321jg/portafolio_web) | Portafolio administrable con diseño inmersivo, galería de proyectos y efectos 3D. | Django · Tailwind CSS · GSAP · Three.js |
 
+### Cursor Build Animation
+
+Una skill que convierte interfaces HTML en animaciones de cursores colaborativos.
+
+[![Ocho cursores construyen un dashboard de ventas](https://raw.githubusercontent.com/javier321jg/cursor-build-animation/main/docs/preview.gif)](https://javier321jg.github.io/cursor-build-animation/)
+
+[Abrir el demo interactivo](https://javier321jg.github.io/cursor-build-animation/) · [Ver el repositorio y la skill](https://github.com/javier321jg/cursor-build-animation)
+
 ## Mi actividad
 
 <div align="center">
